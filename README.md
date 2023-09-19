@@ -1,2 +1,2 @@
-# Python_minorProject
-Python miniproject- iris data classification
+# Python_Project
+Python project- iris data classification
